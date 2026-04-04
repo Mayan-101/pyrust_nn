@@ -30,10 +30,6 @@ This setup is ideal for researchers or developers wanting a reproducible, high-p
 
 ### Installation
 1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd pyrust_nn
-   ```
 
 2. Install Python dependencies:
    ```bash
